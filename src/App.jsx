@@ -1,10 +1,10 @@
 import { Component } from "react"
 
-import AppInfo from "./components/app-info"
-import SearchPanel from "./components/search-panel"
 import AppFilter from "./components/app-filter"
-import EmployeesList from "./components/employees-list"
+import AppInfo from "./components/app-info"
 import EmployeesAddForm from "./components/employees-add-form"
+import EmployeesList from "./components/employees-list"
+import SearchPanel from "./components/search-panel"
 
 import "./app.css"
 
